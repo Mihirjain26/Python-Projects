@@ -1,0 +1,22 @@
+{
+    "Students": [
+        {
+            "name": "Mihir Jain",
+            "age": 24,
+            "email": "Mihir@gmail.com",
+            "roll_no": "1",
+            "grades": {
+                "Maths": 100.0
+            }
+        }
+    ],
+    "Teachers": [
+        {
+            "name": "Prerna Paliwal",
+            "age": 45,
+            "email": "Prerna@gmail.com",
+            "emp_id": "1",
+            "subject": "Hindi"
+        }
+    ]
+}
